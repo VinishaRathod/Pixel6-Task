@@ -1,0 +1,33 @@
+.customer-list h2{
+    padding-top: 0.5rem;
+      text-align: center;
+      color: black;
+      letter-spacing: 4px;
+}
+.customer-list{
+    background-color: aquamarine;
+    width: 60%;
+    margin-top: 1.2rem ;
+    border-radius: 10px;
+    border: 2px solid green;
+    padding: 0 10%;
+}
+.customer-list span{
+    color: white;
+}
+.customer-list p{
+    background-color: rgb(77,66,202);
+    padding: 0.5rem;
+    border: 2px solid white;
+    border-radius: 12px;
+}
+.customer-list .customer{
+    padding-top: 0.7rem;
+}
+.customer-list .customer button{
+    padding:  7px 10px;
+    width: 6rem;
+    margin: 6px;
+    border-radius: 10px;
+    
+}
